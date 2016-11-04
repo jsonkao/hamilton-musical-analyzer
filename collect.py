@@ -20,6 +20,6 @@ def main():
         mark = '</em><br /><br />'
         piece_s = s.find(mark) + len(mark)
         piece_e = s.find('</p>',piece_s)
-
+        
         
 
