@@ -1,4 +1,4 @@
-COMPANY]
+[COMPANY]
 British Admiral Howes got troops on the water
 Thirty-two thousand troops in New York harbor
 
@@ -354,4 +354,6 @@ And his right hand man!
 [FULL COMPANY]
 Boom!
 
-[Thanks to Juan Hernandez for corrections these 
+[Thanks to Juan Hernandez for corrections these lyrics]
+
+
