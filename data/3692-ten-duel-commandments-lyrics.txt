@@ -1,128 +1,128 @@
-MEN:
-One, two, three, four
+MEN
+One two three four
 
-FULL COMPANY:
-Five, six, seven, eight, nineâ€¦
+FULL COMPANY
+Five six seven eight nine¦
 
-BURR/HAMILTON/LAURENS/LEE:
+BURR/HAMILTON/LAURENS/LEE
 Its the Ten Duel Commandments
 
-FULL COMPANY:
+FULL COMPANY
 Its the Ten Duel Commandments
-Number one!
+Number one
 
-LAURENS:
-The challenge: demand satisfaction
-If they apologize, no need for further action
+LAURENS
+The challenge demand satisfaction
+If they apologize no need for further action
 
-COMPANY:
-Number two!
+COMPANY
+Number two
 
-LAURENS:
-If they dont, grab a friend, thats your second
+LAURENS
+If they dont grab a friend thats your second
 
-HAMILTON:
+HAMILTON
 Your lieutenant when theres reckoning to be reckoned
 
-COMPANY:
-Number three!
+COMPANY
+Number three
 
-LEE:
+LEE
 Have your seconds meet face to face
 
-BURR:
-Negotiate a peaceâ€¦
+BURR
+Negotiate a peace¦
 
-HAMILTON:
+HAMILTON
 Or negotiate a time and place
 
-BURR:
-This is commonplace, â€˜specially â€˜tween recruits
+BURR
+This is commonplace ˜specially ˜tween recruits
 
-COMPANY:
-Most disputes die, and no one shoots
-Number four!
+COMPANY
+Most disputes die and no one shoots
+Number four
 
-LAURENS:
-If they dont reach a peace, thats alright
+LAURENS
+If they dont reach a peace thats alright
 Time to get some pistols and a doctor on site
 
-HAMILTON:
-You pay him in advance, you treat him with civility
+HAMILTON
+You pay him in advance you treat him with civility
 
-BURR:
+BURR
 You have him turn around so he can have deniability
 
-COMPANY:
-Five!
+COMPANY
+Five
 
-LEE:
+LEE
 Duel before the sun is in the sky
 
-COMPANY:
+COMPANY
 Pick a place to die where its high and dry
-Number six!
+Number six
 
-HAMILTON:
+HAMILTON
 Leave a note for your next of kin
-Tell â€˜em where you been. Pray that hell or heaven lets you in
+Tell ˜em where you been Pray that hell or heaven lets you in
 
-COMPANY:
-Seven!
+COMPANY
+Seven
 
-LEE:
-Confess your sins. Ready for the moment of adrenaline when you finally face your opponent
+LEE
+Confess your sins Ready for the moment of adrenaline when you finally face your opponent
 
-COMPANY:
-Number eight!
+COMPANY
+Number eight
 
-LAURENS/LEE/HAMILTON/BURR:
+LAURENS/LEE/HAMILTON/BURR
 Your last chance to negotiate
-Send in your seconds, see if they can set the record straightâ€¦
+Send in your seconds see if they can set the record straight¦
 
-BURR:
+BURR
 Alexander
 
-HAMILTON:
-Aaron Burr, sir
+HAMILTON
+Aaron Burr sir
 
-BURR:
-Can we agree that duels are dumb and immature?
+BURR
+Can we agree that duels are dumb and immature
 
-HAMILTON:
+HAMILTON
 Sure
-But your man has to answer for his words, Burr
+But your man has to answer for his words Burr
 
-BURR:
-With his life? We both know thats absurd, sir
+BURR
+With his life We both know thats absurd sir
 
-HAMILTON:
-Hang on, how many men died because Lee was inexperienced and ruinous?
+HAMILTON
+Hang on how many men died because Lee was inexperienced and ruinous
 
-BURR:
-Okay, so were doin this
+BURR
+Okay so were doin this
 
-COMPANY:
-Number nine!
+COMPANY
+Number nine
 
-HAMILTON:
-Look â€˜em in the eye, aim no higher
+HAMILTON
+Look ˜em in the eye aim no higher
 Summon all the courage you require
 Then count
 
-MEN:
+MEN
 One two three four
 
-FULL COMPANY:
+FULL COMPANY
 Five six seven eight nine
 
-HAMILTON/BURR:
+HAMILTON/BURR
 Number
 
-COMPANY:
-Ten paces!
+COMPANY
+Ten paces
 
-HAMILTON/BURR:
-Fire!
+HAMILTON/BURR
+Fire
 
 

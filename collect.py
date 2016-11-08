@@ -1,3 +1,5 @@
+# coding=utf-8
+
 import urllib
 import re
 
@@ -10,20 +12,26 @@ def writeFile(href):
     if int(title[1:5]) > 3706 or int(title[1:5]) < 3661:
         print "rejected " + title + ".txt"
         return None
-
+    
+    fc = urllib.urlopen(main_url + href).read()
+        
     fc = urllib.urlopen(main_url + href).read()
 
     fc = re.sub(r'<[^>]*>','\n',fc) # tags
     fc = re.sub(r'(\sand\s)?\([^\)]*\)','',fc) # parantheses
-    fc = re.sub(u'\u2019'.encode('utf-8'),'',fc) # \u2019
+    fc = re.sub(u'\u2019'.encode('utf-8'),'',fc)
+    fc = re.sub(u'\u2014'.encode('utf-8'),'',fc)
     fc = re.sub(r'Lyrics HAMILTON','',fc) # removes misleading mark
-    
-    startRegex = re.compile(r'[A-Z][A-Z]+|[A-Z][a-z]+\ssay|I\ssaved|\[[A-Za-z\/:\s,]*\]')
+
+    for c in ':—-!",?.\xe2\x80\x9c\x9d\r':
+        fc = fc.replace(c,'')
+
+    startRegex = re.compile(r'[A-Z]{2,}|[A-Z][a-z]+\ssay|I\ssaved|\[[A-Za-z\/:\s,]*\]')
     start = startRegex.search(fc).group()
     fc_s = fc.find(start)
-        
-    fc = fc[fc_s:fc.rfind('Read more:')]
 
+    fc = fc[fc_s:fc.rfind('Read more')]
+    
     f = open('data/' + title + '.txt','w')
     f.write(fc)
     f.close()
@@ -45,6 +53,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-    

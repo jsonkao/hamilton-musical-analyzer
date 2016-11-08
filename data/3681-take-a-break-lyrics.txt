@@ -1,79 +1,79 @@
-ELIZA:
+ELIZA
 Un deux trois quatre
 Cinq six sept huit neuf
 
-PHILIP:
+PHILIP
 Un deux trois quatre
 Cinq six sept huit neuf
 
-ELIZA:
-Good! Un deux trois quatre
+ELIZA
+Good Un deux trois quatre
 Cinq six sept huit neuf
 
-PHILIP:
+PHILIP
 Un deux trois quatre
 Cinq six sept huit neuf
 
-ELIZA:
+ELIZA
 Sept huit neuf
 
-PHILIP:
+PHILIP
 Sept huit neuf   
 
-ELIZA:
+ELIZA
 Sept huit neuf
 
-PHILIP:
+PHILIP
 Sept huit neuf
 
-ELIZA AND PHILIP:
-One two three four five six seven eight nine!
+ELIZA AND PHILIP
+One two three four five six seven eight nine
 
-HAMILTON:
-My dearest, Angelica
-“Tomorrow and tomorrow and tomorrow
-Creeps in this petty pace from day to day”
+HAMILTON
+My dearest Angelica
+Tomorrow and tomorrow and tomorrow
+Creeps in this petty pace from day to day
 I trust youll understand the reference to
 Another Scottish tragedy without my having to name the play
-They think me Macbeth, and ambition is my folly
-Im a polymath, a pain in the ass, a massive pain
-Madison is Banquo, Jeffersons Macduff
+They think me Macbeth and ambition is my folly
+Im a polymath a pain in the ass a massive pain
+Madison is Banquo Jeffersons Macduff
 And Birnam Wood is Congress on its way to Dunsinane
 
-HAMILTON &amp; ANGELICA:
-And there you are, an ocean away
-Do you have to live an ocean away?
+HAMILTON &amp; ANGELICA
+And there you are an ocean away
+Do you have to live an ocean away
 Thoughts of you subside
 Then I get another letter
-I cannot put the notion away…
+I cannot put the notion away�
 
-ELIZA:
+ELIZA
 Take a break
 
-HAMILTON:
+HAMILTON
 I am on my way
 
-ELIZA:
+ELIZA
 Theres a little surprise before supper
 And it cannot wait
 
-HAMILTON:
-Ill be there in just a minute, save my plate
+HAMILTON
+Ill be there in just a minute save my plate
 
-ELIZA:
+ELIZA
 Alexander
 
-HAMILTON:
-Okay, okay
+HAMILTON
+Okay okay
 
-ELIZA:
+ELIZA
 Your son is nine years old today
 Has something hed like to say
 Hes been practicing all day
-Philip, take it away
+Philip take it away
 
-PHILIP:
-Daddy, daddy, look
+PHILIP
+Daddy daddy look
 My name is Philip
 I am a poet
 I wrote this poem just
@@ -82,87 +82,87 @@ And I just turned nine
 You can write rhymes
 But you cant write mine
 
-HAMILTON:
-What!
+HAMILTON
+What
 
-PHILIP:
+PHILIP
 I practice French
 And play piano with my mother
 
-HAMILTON:
-Uh-huh!
+HAMILTON
+Uhhuh
 
-PHILIP:
-I have a sister, but I want a little brother
+PHILIP
+I have a sister but I want a little brother
 
-HAMILTON:
-Okay!
+HAMILTON
+Okay
 
-PHILIP:
+PHILIP
 My daddys trying to start Americas bank
-Un deux trois quatre cinq!      
+Un deux trois quatre cinq      
  
-HAMILTON:
-Bravo!
+HAMILTON
+Bravo
  
-ELIZA:
+ELIZA
 Take a break
 
-HAMILTON:
-Hey, our kid is pretty great
+HAMILTON
+Hey our kid is pretty great
 
-ELIZA:
+ELIZA
 Run away with us for the summer
 Lets go upstate
 
-HAMILTON:
-Eliza, Ive got so much on my plate
+HAMILTON
+Eliza Ive got so much on my plate
 
-ELIZA:
+ELIZA
 We can all go stay with my father
-Theres a lake I know…
+Theres a lake I know�
 
-HAMILTON:
+HAMILTON
 I know
 
-ELIZA:
+ELIZA
 In a nearby park
 
-HAMILTON:
+HAMILTON
 Id love to go
 
-ELIZA:
-You and I can go when the night gets dark…
+ELIZA
+You and I can go when the night gets dark�
 
-HAMILTON:
+HAMILTON
 I will try to get away
 
-ANGELICA:
+ANGELICA
 My dearest Alexander
 You must get through to Jefferson
 Sit down with him and compromise
-Dont stop ‘til you agree
+Dont stop �til you agree
 Your favrite older sister
-Angelica, reminds you
+Angelica reminds you
 Theres someone in your corner all the way across the sea
 
 In a letter I received from you two weeks ago
 I noticed a comma in the middle of a phrase
-It changed the meaning. Did you intend this?
+It changed the meaning Did you intend this
 One stroke and youve consumed my waking days
-It says:
+It says
 
-HAMILTON &amp; ANGELICA:
-“My dearest Angelica”
+HAMILTON &amp; ANGELICA
+My dearest Angelica
 
-ANGELICA:
-With a comma after “dearest.” Youve written
+ANGELICA
+With a comma after dearest Youve written
 
-HAMILTON AND ANGELICA:
-“My dearest, Angelica.”
+HAMILTON AND ANGELICA
+My dearest Angelica
 
-ANGELICA:
-Anyway, all this to say
+ANGELICA
+Anyway all this to say
 Im coming home this summer
 At my sisters invitation
 Ill be there with your famly
@@ -171,113 +171,113 @@ I know youre very busy
 I know your works important
 But Im crossing the ocean and I just cant wait
 
-HAMILTON AND ANGELICA:
+HAMILTON AND ANGELICA
 You wont be an ocean away
-You will only be a moment away…
+You will only be a moment away�
 
-ELIZA:
-Alexander, come downstairs. Angelicas arriving today! Angelica!
+ELIZA
+Alexander come downstairs Angelicas arriving today Angelica
 
-ANGELICA:
-Eliza!
+ANGELICA
+Eliza
 
-HAMILTON:
-The Schuyler sisters!
+HAMILTON
+The Schuyler sisters
 
-ANGELICA:
+ANGELICA
 Alexander
 
-HAMILTON:
+HAMILTON
 Hi
 
-ANGELICA:
+ANGELICA
 Its good to see your face
 
-ELIZA:
-Angelica, tell this man John Adams spends the summer with his family
+ELIZA
+Angelica tell this man John Adams spends the summer with his family
 
-HAMILTON:
-Angelica, tell my wife John Adams doesnt have a real job anyway
+HAMILTON
+Angelica tell my wife John Adams doesnt have a real job anyway
 
-ANGELICA:
-…youre not joining us? Wait
+ANGELICA
+�youre not joining us Wait
 
-HAMILTON:
+HAMILTON
 Im afraid I cannot join you upstate
 
-ANGELICA:
-Alexander, I came all this way
+ANGELICA
+Alexander I came all this way
 
-ELIZA:
+ELIZA
 She came all this way
 
-ANGELICA:
+ANGELICA
 All this way
 
-ELIZA AND ANGELICA:
+ELIZA AND ANGELICA
 Take a break
 
-HAMILTON:
+HAMILTON
 You know I have to get my plan through Congress
 
-ELIZA AND ANGELICA:
+ELIZA AND ANGELICA
 Run away with us for the summer
 Lets go upstate
 
-HAMILTON:
+HAMILTON
 I lose my job if I dont get my plan through Congress
 
-ELIZA AND ANGELICA:
+ELIZA AND ANGELICA
 We can all go stay with our father
 
-ELIZA:
+ELIZA
 Theres a lake I know
 
-ANGELICA:
+ANGELICA
 I know Ill miss your face
 
-ELIZA:
+ELIZA
 In a nearby park
 
-ANGELICA:
+ANGELICA
 Screw your courage to the sticking place
 
-ELIZA:
+ELIZA
 You and I can go
 
-ANGELICA:
+ANGELICA
 Elizas right
 
-ELIZA AND ANGELICA:
+ELIZA AND ANGELICA
 Take a break and get away
 
-ANGELICA:
+ANGELICA
 Run away with us for the summer
 
-ELIZA:
+ELIZA
 Lets go upstate
 Where we can stay
 
-ANGELICA:
+ANGELICA
 We can all go stay with our father
 If you take your time
 
-ELIZA:
-Look around, look around
+ELIZA
+Look around look around
 At how lucky we are to be alive right now
 
-ANGELICA:
+ANGELICA
 You will make your mark
 Close your eyes and dream
 
-ELIZA:
+ELIZA
 We can go
 
-ELIZA AND ANGELICA:
+ELIZA AND ANGELICA
 When the night gets dark
-Take a break.
+Take a break
 
-HAMILTON:
+HAMILTON
 I have to get my plan through Congress
 I cant stop until I get this plan through Congress
 

@@ -1,5 +1,5 @@
 [ELIZA]
-Alexander, come back to sleep
+Alexander come back to sleep
 
 [HAMILTON]
 I have an early meeting out of town
@@ -8,16 +8,16 @@ I have an early meeting out of town
 It's still dark outside
 
 [HAMILTON]
-I know, I just need to write something down
+I know I just need to write something down
 
 [ELIZA]
-Why do you write like you're running out of time?
+Why do you write like you're running out of time
 
 [HAMILTON]
 Shh
 
 [ELIZA]
-Come back to bed, that would be enough
+Come back to bed that would be enough
 
 [HAMILTON]
 I'll be back before you know I'm gone
@@ -32,6 +32,6 @@ This meeting's at dawn
 Well I'm going back to sleep
 
 [HAMILTON]
-Hey, best of wives and best of women
+Hey best of wives and best of women
 
 
