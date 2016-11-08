@@ -11,6 +11,7 @@ from collections import defaultdict
 os.chdir('data/')
 
 tests = [
+    '3706-alexander-hamilton-lyrics.txt',
     '3705-aaron-burr-sir-lyrics.txt',
     '3704-my-shot-lyrics-hamilton.txt',
     '3703-the-story-of-tonight-lyrics.txt'
@@ -21,9 +22,10 @@ def presentActors(line):
     actorRegex = re.compile(r'[A-Z]{3,}')
     actors = actorRegex.findall(line)
 
-    if 'ENSEMBLE' in actors: actors = actors.remove('ENSEMBLE')
+    fake = ["ENSEMBLE", "COMPANY", "AND"]
+    for s in fake:
+        if s in actors: actors.remove(s)
     return actors if actors else None
-
 
 def main(filename):
     
@@ -40,26 +42,30 @@ def main(filename):
             size -= 1
         else:
             i += 1
+    f = open('test.txt','w')
+    f.write(str(script))
+    f.close()
     data = defaultdict(list)
     for line in script:
         actors = presentActors(line)
         if actors is not None:
-            try:
-                lastIndex = line.find(actors[-1]) + len(actors[-1])
-            except IndexError:
-                return actors, line
+            lastIndex = line.find(actors[-1]) + len(actors[-1])
+
             try:
                 if "]" in line[lastIndex]: lastIndex += 2
             except IndexError: # occurs when lines blank (parantheses text)
                 continue
+
             for actor in actors:
                 data[actor].append(line[lastIndex:].strip())
-
+    for key in data:
+        data[key] = ' '.join(data[key])
     return data
-d = main('3702-the-schuyler-sisters-lyrics.txt')
+
+d = main(tests[0])
 print d.keys()
 
 def drive():
-    os.listdir(os.curdir)
+    files = os.listdir(os.curdir)
+    print main(files[3]) #3706
 
-drive()
