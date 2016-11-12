@@ -1,7 +1,7 @@
 ELIZA
 Look around look around at how lucky we are
 To be alive right now
-Look around look around¦
+Look around look around
 
 HAMILTON
 How long have you known
@@ -41,7 +41,7 @@ Unable to provide for your life
 
 ELIZA
 I relish being your wife
-Look around look around¦
+Look around look around
 
 Look at where you are
 Look at where you started
@@ -65,7 +65,7 @@ That would be enough
 We dont need a legacy
 We dont need money
 If I could grant you peace of mind
-If you could let me inside your heart¦
+If you could let me inside your heart
 
 Oh let me be a part of the narrative
 In the story they will write someday

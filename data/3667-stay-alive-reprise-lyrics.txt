@@ -1,6 +1,6 @@
 ENSEMBLE WOMEN
-Stay alive�
-Stay alive�
+Stay alive
+Stay alive
 
 HAMILTON
 Wheres my son
@@ -48,7 +48,7 @@ I know I know                        I was aiming for the s
 I know
 
 Save your strength and             ENSEMBLE MEN
-Stay alive�                              Stay alive
+Stay alive                              Stay alive
 
 ELIZA
 No
@@ -103,8 +103,8 @@ Cinq six sept huit neuf
 ELIZA
 Good
 Un deux trois quatre              PHILIP
-Cinq six sept                         Un deux trois�
+Cinq six sept                         Un deux trois
 Huit neuf
 Sept huit neuf
-Sept huit�
+Sept huit
 

@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/collect.py" description="import urllib&#10;import re&#10;&#10;def writeFile(href):&#10;    ..." line="2" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="96ab4877-3d37-4ce2-87e3-d3194ac1b05e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ref.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3672-we-know-lyrics.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/test.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collect.py" afterPath="$PROJECT_DIR$/collect.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3661-who-lives-who-dies-who-tells-your-story-lyrics.txt" afterPath="$PROJECT_DIR$/data/3661-who-lives-who-dies-who-tells-your-story-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3662-the-world-was-wide-enough-lyrics.txt" afterPath="$PROJECT_DIR$/data/3662-the-world-was-wide-enough-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3665-election-of-1800-lyrics-hamilton.txt" afterPath="$PROJECT_DIR$/data/3665-election-of-1800-lyrics-hamilton.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3666-its-quiet-uptown-lyrics.txt" afterPath="$PROJECT_DIR$/data/3666-its-quiet-uptown-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3667-stay-alive-reprise-lyrics.txt" afterPath="$PROJECT_DIR$/data/3667-stay-alive-reprise-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3668-blow-us-all-away-lyrics.txt" afterPath="$PROJECT_DIR$/data/3668-blow-us-all-away-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3670-the-reynolds-pamphlet-lyrics.txt" afterPath="$PROJECT_DIR$/data/3670-the-reynolds-pamphlet-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3671-hurricane-lyrics.txt" afterPath="$PROJECT_DIR$/data/3671-hurricane-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3675-one-last-time-lyrics.txt" afterPath="$PROJECT_DIR$/data/3675-one-last-time-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3676-washington-on-your-side-lyrics-hamilton.txt" afterPath="$PROJECT_DIR$/data/3676-washington-on-your-side-lyrics-hamilton.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3677-cabinet-battle-2-lyrics-hamilton.txt" afterPath="$PROJECT_DIR$/data/3677-cabinet-battle-2-lyrics-hamilton.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3678-schuyler-defeated-lyrics.txt" afterPath="$PROJECT_DIR$/data/3678-schuyler-defeated-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3679-the-room-where-it-happens-lyrics.txt" afterPath="$PROJECT_DIR$/data/3679-the-room-where-it-happens-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3680-say-no-to-this-lyrics.txt" afterPath="$PROJECT_DIR$/data/3680-say-no-to-this-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3681-take-a-break-lyrics.txt" afterPath="$PROJECT_DIR$/data/3681-take-a-break-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3682-cabinet-battle-1-lyrics.txt" afterPath="$PROJECT_DIR$/data/3682-cabinet-battle-1-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3683-whatd-i-miss-lyrics.txt" afterPath="$PROJECT_DIR$/data/3683-whatd-i-miss-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3684-non-stop-lyrics.txt" afterPath="$PROJECT_DIR$/data/3684-non-stop-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3687-yorktown-the-world-turned-upside-down-lyrics.txt" afterPath="$PROJECT_DIR$/data/3687-yorktown-the-world-turned-upside-down-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3688-history-has-its-eyes-on-you-lyrics.txt" afterPath="$PROJECT_DIR$/data/3688-history-has-its-eyes-on-you-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3689-guns-and-ships-lyrics.txt" afterPath="$PROJECT_DIR$/data/3689-guns-and-ships-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3690-that-would-be-enough-lyrics.txt" afterPath="$PROJECT_DIR$/data/3690-that-would-be-enough-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3692-ten-duel-commandments-lyrics.txt" afterPath="$PROJECT_DIR$/data/3692-ten-duel-commandments-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3693-stay-alive-lyrics.txt" afterPath="$PROJECT_DIR$/data/3693-stay-alive-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3694-wait-for-it-lyrics-hamilton-the-musica.txt" afterPath="$PROJECT_DIR$/data/3694-wait-for-it-lyrics-hamilton-the-musica.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3695-the-story-of-tonight-reprise-lyrics.txt" afterPath="$PROJECT_DIR$/data/3695-the-story-of-tonight-reprise-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3696-satisfied-lyrics.txt" afterPath="$PROJECT_DIR$/data/3696-satisfied-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3697-helpless-lyrics.txt" afterPath="$PROJECT_DIR$/data/3697-helpless-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3699-right-hand-man-lyrics.txt" afterPath="$PROJECT_DIR$/data/3699-right-hand-man-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3701-farmer-refuted-lyrics.txt" afterPath="$PROJECT_DIR$/data/3701-farmer-refuted-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3702-the-schuyler-sisters-lyrics.txt" afterPath="$PROJECT_DIR$/data/3702-the-schuyler-sisters-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3703-the-story-of-tonight-lyrics.txt" afterPath="$PROJECT_DIR$/data/3703-the-story-of-tonight-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3704-my-shot-lyrics-hamilton.txt" afterPath="$PROJECT_DIR$/data/3704-my-shot-lyrics-hamilton.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3705-aaron-burr-sir-lyrics.txt" afterPath="$PROJECT_DIR$/data/3705-aaron-burr-sir-lyrics.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3706-alexander-hamilton-lyrics.txt" afterPath="$PROJECT_DIR$/data/3706-alexander-hamilton-lyrics.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/to_json.py" afterPath="$PROJECT_DIR$/to_json.py" />
     </list>
     <ignored path="hamilton-musical-analyzer.iws" />
@@ -23,23 +66,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="to_json.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/to_json.py">
+      <file leaf-file-name="collect.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/collect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding>
-                <element signature="e#181#190#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="402">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3706-alexander-hamilton-lyrics.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/3706-alexander-hamilton-lyrics.txt">
+      <file leaf-file-name="3676-washington-on-your-side-lyrics-hamilton.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/3676-washington-on-your-side-lyrics-hamilton.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="103" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+            <state relative-caret-position="480">
+              <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -53,10 +94,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/3706-alexander-hamilton-lyrics.txt" />
         <option value="$PROJECT_DIR$/data/3705-aaron-burr-sir-lyrics.txt" />
-        <option value="$PROJECT_DIR$/collect.py" />
         <option value="$PROJECT_DIR$/to_json.py" />
+        <option value="$PROJECT_DIR$/data/3706-alexander-hamilton-lyrics.txt" />
+        <option value="$PROJECT_DIR$/ref.py" />
+        <option value="$PROJECT_DIR$/data/3665-election-of-1800-lyrics-hamilton.txt" />
+        <option value="$PROJECT_DIR$/data/3676-washington-on-your-side-lyrics-hamilton.txt" />
+        <option value="$PROJECT_DIR$/collect.py" />
       </list>
     </option>
   </component>
@@ -89,6 +133,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -124,14 +169,15 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.to_json">
+  <component name="RunManager" selected="Python.collect">
     <configuration default="false" name="to_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,6 +208,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hamilton-musical-analyzer" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ref" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hamilton-musical-analyzer" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ref.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -300,19 +363,24 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.to_json" />
       <item index="1" class="java.lang.String" itemvalue="Python.collect" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ref" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.to_json" />
-        <item index="1" class="java.lang.String" itemvalue="Python.collect" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.collect" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ref" />
+        <item index="2" class="java.lang.String" itemvalue="Python.to_json" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -326,14 +394,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16736111" sideWeight="0.49322033" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40797186" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40797186" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16736111" sideWeight="0.5067797" order="0" side_tool="true" content_ui="tabs" />
@@ -368,7 +436,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#181#190#0" expanded="true" />
+            <element signature="e#32#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -377,7 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -395,21 +462,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/3704-my-shot-lyrics-hamilton.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/3705-aaron-burr-sir-lyrics.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="125" column="17" selection-start-line="125" selection-start-column="17" selection-end-line="125" selection-end-column="17" />
+        <state relative-caret-position="-2028">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/collect.py">
+    <entry file="file://$PROJECT_DIR$/data/3706-alexander-hamilton-lyrics.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+        <state relative-caret-position="45">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/3704-my-shot-lyrics-hamilton.txt">
+    <entry file="file://$PROJECT_DIR$/to_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <element signature="e#32#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3700-youll-be-back-lyrics-hamilton.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -417,21 +503,165 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/3706-alexander-hamilton-lyrics.txt">
+    <entry file="file://$PROJECT_DIR$/data/3701-farmer-refuted-lyrics.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="103" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/to_json.py">
+    <entry file="file://$PROJECT_DIR$/ref.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="405">
+          <caret line="33" column="87" selection-start-line="33" selection-start-column="87" selection-end-line="33" selection-end-column="87" />
           <folding>
-            <element signature="e#181#190#0" expanded="true" />
+            <element signature="e#16#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3661-who-lives-who-dies-who-tells-your-story-lyrics.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3662-the-world-was-wide-enough-lyrics.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3663-best-of-wives-and-best-of-women-lyrics.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3665-election-of-1800-lyrics-hamilton.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3667-stay-alive-reprise-lyrics.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3669-burn-lyrics-hamilton-the-musica.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3670-the-reynolds-pamphlet-lyrics.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3668-blow-us-all-away-lyrics.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3666-its-quiet-uptown-lyrics.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3664-your-obedient-servant-lyrics.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3671-hurricane-lyrics.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3673-the-adams-administration-lyrics.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3674-i-know-him-lyrics.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3675-one-last-time-lyrics.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3677-cabinet-battle-2-lyrics-hamilton.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3672-we-know-lyrics.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3676-washington-on-your-side-lyrics-hamilton.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

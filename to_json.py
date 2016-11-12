@@ -1,8 +1,7 @@
 """
-1. split into lines
-2. for each line, check if there's speaker
-3. use defaultdict(list) to add on sentences
-4. return dicitionary with lists of each singer, convert to json
+style1:
+-fname lname:
+-
 """
 import re
 import os
@@ -22,9 +21,10 @@ def presentActors(line):
     actorRegex = re.compile(r'[A-Z]{3,}')
     actors = actorRegex.findall(line)
 
-    fake = ["ENSEMBLE", "COMPANY", "AND"]
+    fake = ["ENSEMBLE", "COMPANY", "AND", "ENTER"]
     for s in fake:
         if s in actors: actors.remove(s)
+
     return actors if actors else None
 
 def main(filename):
@@ -64,8 +64,3 @@ def main(filename):
 
 d = main(tests[0])
 print d.keys()
-
-def drive():
-    files = os.listdir(os.curdir)
-    print main(files[3]) #3706
-

@@ -40,12 +40,12 @@ Im a polymath a pain in the ass a massive pain
 Madison is Banquo Jeffersons Macduff
 And Birnam Wood is Congress on its way to Dunsinane
 
-HAMILTON &amp; ANGELICA
+HAMILTON AND ANGELICA
 And there you are an ocean away
 Do you have to live an ocean away
 Thoughts of you subside
 Then I get another letter
-I cannot put the notion away¦
+I cannot put the notion away
 
 ELIZA
 Take a break
@@ -120,7 +120,7 @@ Eliza Ive got so much on my plate
 
 ELIZA
 We can all go stay with my father
-Theres a lake I know¦
+Theres a lake I know
 
 HAMILTON
 I know
@@ -132,7 +132,7 @@ HAMILTON
 Id love to go
 
 ELIZA
-You and I can go when the night gets dark¦
+You and I can go when the night gets dark
 
 HAMILTON
 I will try to get away
@@ -141,7 +141,7 @@ ANGELICA
 My dearest Alexander
 You must get through to Jefferson
 Sit down with him and compromise
-Dont stop ˜til you agree
+Dont stop til you agree
 Your favrite older sister
 Angelica reminds you
 Theres someone in your corner all the way across the sea
@@ -152,7 +152,7 @@ It changed the meaning Did you intend this
 One stroke and youve consumed my waking days
 It says
 
-HAMILTON &amp; ANGELICA
+HAMILTON AND ANGELICA
 My dearest Angelica
 
 ANGELICA
@@ -173,7 +173,7 @@ But Im crossing the ocean and I just cant wait
 
 HAMILTON AND ANGELICA
 You wont be an ocean away
-You will only be a moment away¦
+You will only be a moment away
 
 ELIZA
 Alexander come downstairs Angelicas arriving today Angelica
@@ -200,7 +200,7 @@ HAMILTON
 Angelica tell my wife John Adams doesnt have a real job anyway
 
 ANGELICA
-¦youre not joining us Wait
+youre not joining us Wait
 
 HAMILTON
 Im afraid I cannot join you upstate

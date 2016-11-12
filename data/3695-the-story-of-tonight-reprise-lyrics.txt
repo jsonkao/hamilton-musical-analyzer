@@ -1,19 +1,19 @@
 LAURENS
 I may not live to see our glory
 
-MULLIGAN/LAFAYETTE
+MULLIGAN AND LAFAYETTE
 I may not live to see our glory
 
 LAURENS
 But I've seen wonders great and small
 
-MULLIGAN/LAFAYETTE
+MULLIGAN AND LAFAYETTE
 I've seen wonders great and small
 
 LAURENS
 Cuz if the tomcat can get married
 
-MULLIGAN/LAFAYETTE
+MULLIGAN AND LAFAYETTE
 If Alexander can get married
 
 LAURENS
@@ -22,7 +22,7 @@ There's hope for our ass after all
 LAFAYETTE
 Raise a glass to freedom
 
-LAURENS/MULLIGAN
+LAURENS AND MULLIGAN
 Hey
 Something you will never see again
 
@@ -35,13 +35,13 @@ Let's have another round tonight
 LAURENS
 Raise a glass to the four of us
 
-LAFAYETTE/HAMILTON
+LAFAYETTE AND HAMILTON
 Ho
 
 MULLIGAN
 To the newly not poor of us
 
-LAURENS/LAFAYETTE/HAMILTON
+LAURENS AND LAFAYETTE AND HAMILTON
 Woo
 
 LAFAYETTE
@@ -62,7 +62,7 @@ I didn't think you would make it
 BURR
 To be sure
 
-MULLIGAN/LAFAYETTE
+MULLIGAN AND LAFAYETTE
 Burr
 
 BURR

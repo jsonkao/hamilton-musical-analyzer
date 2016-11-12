@@ -16,7 +16,7 @@ Im sure he already knows
 PHILLIP
 Further down
 
-PHILLIP &amp; ELIZA
+PHILLIP AND ELIZA
 Further down
 
 PHILLIP
@@ -25,7 +25,7 @@ Lets meet the newest senator from New York
 ELIZA
 New York
 
-PHILLIP &amp; ELIZA
+PHILLIP AND ELIZA
 Our senator
 
 HAMILTON

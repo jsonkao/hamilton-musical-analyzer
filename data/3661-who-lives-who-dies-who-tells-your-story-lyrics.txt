@@ -67,7 +67,7 @@ Eliza
 ELIZA
 I interview every soldier who fought by your side
 
-MULLIGAN/LAFAYETTE/LAURENS
+MULLIGAN AND LAFAYETTE AND LAURENS
 She tells our story
 
 ELIZA
@@ -175,11 +175,11 @@ Time
 
 COMPANY
 Will they tell your story                             COMPANY
-                                                             Time�
+                                                             Time
 Who lives who dies who tells your story
-                                                             Time�
+                                                             Time
 Will they tell your story
-                                                              Time�
+                                                              Time
 Who lives who dies      
 
 FULL COMPANY

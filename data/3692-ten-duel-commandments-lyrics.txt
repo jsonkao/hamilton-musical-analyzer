@@ -2,9 +2,9 @@ MEN
 One two three four
 
 FULL COMPANY
-Five six seven eight nine¦
+Five six seven eight nine
 
-BURR/HAMILTON/LAURENS/LEE
+BURR AND HAMILTON AND LAURENS AND LEE
 Its the Ten Duel Commandments
 
 FULL COMPANY
@@ -31,13 +31,13 @@ LEE
 Have your seconds meet face to face
 
 BURR
-Negotiate a peace¦
+Negotiate a peace
 
 HAMILTON
 Or negotiate a time and place
 
 BURR
-This is commonplace ˜specially ˜tween recruits
+This is commonplace specially tween recruits
 
 COMPANY
 Most disputes die and no one shoots
@@ -65,7 +65,7 @@ Number six
 
 HAMILTON
 Leave a note for your next of kin
-Tell ˜em where you been Pray that hell or heaven lets you in
+Tell em where you been Pray that hell or heaven lets you in
 
 COMPANY
 Seven
@@ -76,9 +76,9 @@ Confess your sins Ready for the moment of adrenaline when you finally face your 
 COMPANY
 Number eight
 
-LAURENS/LEE/HAMILTON/BURR
+LAURENS AND LEE AND HAMILTON AND BURR
 Your last chance to negotiate
-Send in your seconds see if they can set the record straight¦
+Send in your seconds see if they can set the record straight
 
 BURR
 Alexander
@@ -106,7 +106,7 @@ COMPANY
 Number nine
 
 HAMILTON
-Look ˜em in the eye aim no higher
+Look em in the eye aim no higher
 Summon all the courage you require
 Then count
 
@@ -116,13 +116,13 @@ One two three four
 FULL COMPANY
 Five six seven eight nine
 
-HAMILTON/BURR
+HAMILTON AND BURR
 Number
 
 COMPANY
 Ten paces
 
-HAMILTON/BURR
+HAMILTON AND BURR
 Fire
 
 
