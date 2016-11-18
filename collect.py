@@ -35,7 +35,6 @@ def writeFile(href):
 
     fc = fc[fc_s:fc.rfind('Read more')]
 
-
     f = open('data/' + title + '.txt','w')
     f.write(fc)
     f.close()
