@@ -1,24 +1,20 @@
-import urllib
+import urllib2
+import cookielib
 import re
 
 def h():
 
-    # loads HTML
-    root_url = 'http://atlanticrecords.com/HamiltonMusic/'
-    HTML = urllib.urlopen(root_url).read()
-    HTML = HTML[HTML.find('<ul class="lyrics'):HTML.find('<div class="bottom')]
+    root = 'http://genius.com/albums/Lin-manuel-miranda'
     
-    # returns a list of (href,title)
-    linkRegex = re.compile(r'<a href="([^"]*)"\sdata-ref="[^"]*">([^<]*)')
-    links = linkRegex.findall(HTML)
-    return links
-    for i in range(0,len(links)):
-        href = links[i][0]
-        title = links[i][1].replace(' ','_')
-
-        f = urllib.urlopen(root_url + href).read()
-        f = f[f.find('<div class="rg_embed_body'):f.find('<div class="rg_embed_footer')]
-        print len(f)
-        f = re.sub(r'<[^>]*>','',f)
-        return f
-        
+    # change user-agent
+    hdr = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
+       'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+       'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
+       'Accept-Encoding': 'none',
+       'Accept-Language': 'en-US,en;q=0.8',
+       'Connection': 'keep-alive'}
+    req = urllib2.Request(root+'/Hamilton-original-broadway-cast-recording',headers=hdr)
+    page = urllib2.urlopen(req)
+    HTML = page.read()
+    HTML = HTML[HTML.find('<ul class="song_list'):HTML.rfind('<div class="back_to_albums')]
+ 

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96ab4877-3d37-4ce2-87e3-d3194ac1b05e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collect_data.py" afterPath="$PROJECT_DIR$/collect_data.py" />
-    </list>
+    <list default="true" id="96ab4877-3d37-4ce2-87e3-d3194ac1b05e" name="Default" comment="" />
     <ignored path="hamilton-musical-analyzer.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -350,7 +348,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16736111" sideWeight="0.82649475" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
