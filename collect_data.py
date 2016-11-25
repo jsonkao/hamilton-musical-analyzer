@@ -12,12 +12,19 @@ def h():
        'Connection': 'keep-alive'}
     req = urllib2.Request('http://genius.com/albums/Lin-manuel-miranda/Hamilton-original-broadway-cast-recording',headers=hdr)
     HTML = urllib2.urlopen(req).read()
-    HTML = HTML[HTML.find('<ul class="song_list'):HTML.rfind('<div class="back_to_albums')]
+    song_list = HTML[HTML.find('<ul class="song_list'):HTML.rfind('<div class="back_to_albums')]
  
     hrefRegex = re.compile(r'<a href="([^"]*)')
-    hrefs = hrefRegex.findall(HTML)
+    hrefs = hrefRegex.findall(song_list)
 
     for h in hrefs:
         req = urllib2.Request(h,headers=hdr)
-        song_HTML = urllib2.urlopen(req).read()
-        return song_HTML
+        HTML = urllib2.urlopen(req).read()
+        lyrics = HTML[HTML.find('<lyrics'):HTML.find('</lyrics')]
+
+        lyrics = re.sub(r'<[^>]*>',' ',lyrics) # removes stags
+        lyrics = re.sub(r'[^\w\[\]\s]','',lyrics) # removes bad characters
+
+        lyrics = lyrics.replace('\n','')
+        return lyrics
+print h()[:1000]
