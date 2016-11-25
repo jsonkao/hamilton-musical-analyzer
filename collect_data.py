@@ -16,15 +16,19 @@ def h():
  
     hrefRegex = re.compile(r'<a href="([^"]*)')
     hrefs = hrefRegex.findall(song_list)
-
     for h in hrefs:
+        title = h[h.rfind('miranda-')+len('miranda-'):h.rfind('-lyrics')]
+        print title
+        """
         req = urllib2.Request(h,headers=hdr)
         HTML = urllib2.urlopen(req).read()
         lyrics = HTML[HTML.find('<lyrics'):HTML.find('</lyrics')]
 
-        lyrics = re.sub(r'<[^>]*>',' ',lyrics) # removes stags
-        lyrics = re.sub(r'[^\w\[\]\s]','',lyrics) # removes bad characters
-
+        lyrics = re.sub(r'<[^>]*>',' ',lyrics) # removes tags
+        lyrics = re.sub(r'[^\w\[\]\s]||\samp','',lyrics) # removes bad chars
+        lyrics = re.sub(r'\s{2,}',' ',lyrics) # trims spaces
         lyrics = lyrics.replace('\n','')
-        return lyrics
-print h()[:1000]
+        lyrics = lyrics[lyrics.find('['):].lower() # removes stage directions"""
+
+ #       f = open('data/'+title+'.txt')
+print h()
