@@ -1,57 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96ab4877-3d37-4ce2-87e3-d3194ac1b05e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/collect_data.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/collect.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3661-who-lives-who-dies-who-tells-your-story-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3662-the-world-was-wide-enough-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3663-best-of-wives-and-best-of-women-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3664-your-obedient-servant-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3665-election-of-1800-lyrics-hamilton.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3666-its-quiet-uptown-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3667-stay-alive-reprise-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3668-blow-us-all-away-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3669-burn-lyrics-hamilton-the-musica.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3670-the-reynolds-pamphlet-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3671-hurricane-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3673-the-adams-administration-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3674-i-know-him-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3675-one-last-time-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3676-washington-on-your-side-lyrics-hamilton.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3677-cabinet-battle-2-lyrics-hamilton.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3678-schuyler-defeated-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3679-the-room-where-it-happens-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3680-say-no-to-this-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3681-take-a-break-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3682-cabinet-battle-1-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3683-whatd-i-miss-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3684-non-stop-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3685-dear-theodosia-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3686-what-comes-next-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3687-yorktown-the-world-turned-upside-down-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3688-history-has-its-eyes-on-you-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3689-guns-and-ships-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3690-that-would-be-enough-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3691-meet-me-inside-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3692-ten-duel-commandments-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3693-stay-alive-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3694-wait-for-it-lyrics-hamilton-the-musica.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3695-the-story-of-tonight-reprise-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3696-satisfied-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3697-helpless-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3698-a-winters-ball-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3699-right-hand-man-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3700-youll-be-back-lyrics-hamilton.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3701-farmer-refuted-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3702-the-schuyler-sisters-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3703-the-story-of-tonight-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3704-my-shot-lyrics-hamilton.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3705-aaron-burr-sir-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/3706-alexander-hamilton-lyrics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/to_json.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="96ab4877-3d37-4ce2-87e3-d3194ac1b05e" name="Default" comment="" />
     <ignored path="hamilton-musical-analyzer.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,6 +47,7 @@
         <option value="$PROJECT_DIR$/collect.py" />
         <option value="$USER_HOME$/Documents/hi.py" />
         <option value="$PROJECT_DIR$/../citibike/collect.py" />
+        <option value="$PROJECT_DIR$/collect_data.py" />
       </list>
     </option>
   </component>
@@ -397,7 +348,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16736111" sideWeight="0.82649475" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16736111" sideWeight="0.82649475" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
