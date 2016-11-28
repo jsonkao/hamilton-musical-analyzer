@@ -9,17 +9,19 @@ def get_actors(L):
     men = ['hamilton','burr','lafayette','jefferson','washington','laurens','mulligan','madison']
     women = ['eliza','angelica','peggy']
 
-    if 'all' in L:
-        return
-        
+    w = 0
     while w < len(L):
         if 'all' == L[w]:
             new_ = eval(L[w+1])
             if 'except' in L:
-                actors += eval(L[w+1]).remove(L.index('excerpt')+1)
-                L[L.index('except')+1]
+                del new_[L.index('except')+1]
+            actors += new_
+            break
         else:
             actors.append(L[w])
+        w += 1
+        
+    return actors
 
 def list_formats():
     d = set()
