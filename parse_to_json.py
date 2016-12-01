@@ -11,17 +11,12 @@ def get_actors(L):
 
     w = 0
     while w < len(L):
-        if 'all' == L[w]:
+        if L[w] == 'all':
             new_ = eval(L[w+1])
-            if 'except' in L:
-                del new_[L.index('except')+1]
+            if 'except' in L[w:]:
+                new_.remove(L[L.index('except')+1])
             actors += new_
             break
-        else:
-            actors.append(L[w])
-        w += 1
-        
-    return actors
 
 def list_formats():
     d = set()
