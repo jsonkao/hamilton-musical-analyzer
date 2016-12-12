@@ -9,25 +9,44 @@ def get_actors(L):
     men = ['hamilton','burr','lafayette','jefferson','washington','laurens','mulligan','madison']
     women = ['eliza','angelica','peggy']
 
-    w = 0
-    while w < len(L):
-        if L[w] == 'all':
-            new_ = eval(L[w+1])
-            if 'except' in L[w:]:
-                new_.remove(L[L.index('except')+1])
-            actors += new_
-            break
+    if 'all' in L:
+        index = L.index('all')
+        actors = L[:index]
+        new_ = eval(L[index+1])
+        if 'except' in L[index:]:
+            new_.remove(L[L.index('except')+1])
+        actors += new_
+    elif 'voter' in L or 'voters' in L:
+        actors = ['voters']
+    #elif 'women' in L or 'woman' in L:
+    else:
+        actors = L
 
-def list_formats():
+    blank = ['ensemble']
+    for w in blank:
+        if w in actors:
+            actors.remove(w)
+
+    return actors
+
+def list_formats(L):
+    if 'data' not in os.getcwd():
+        os.chdir('data/')
+    isEmpty = not L
     d = set()
-    os.chdir('data/')
     for filename in os.listdir(os.getcwd()):
         with open(filename) as f:
             s = f.read()
         reg = re.compile(r'\[([^\]]*)\]')
         a = reg.findall(s)
         for thing in a:
-            d.add(thing)
+            addMe = False
+            for l in L:
+                if l in thing:
+                    addMe = True
+                    break
+            if addMe or isEmpty:
+                d.add(thing)
     return d
             
 
@@ -42,7 +61,4 @@ def parse(filename):
     for L in lines:
         return L
         
-
-#parse('data/alexander-hamilton.txt')
-
-    
+print list_formats([])
